@@ -20,4 +20,4 @@
 
 <a href=www.hallym.ac.kr>한림대학교</a>
 
-[hallym];www.hallym.ac.kr
+[hallym]:www.hallym.ac.kr
